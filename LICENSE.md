@@ -1,4 +1,4 @@
-# 
+# Open Source Advanced SystemCare outils pour Mac OS | Léger Advanced SystemCare outils pour PC Windows. Avec gestionnaire de démarrage et indexation des fichiers — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
